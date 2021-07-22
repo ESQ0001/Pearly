@@ -5,5 +5,5 @@ Android application part of the "Human-Computer Interaction Project" course at U
 ### Authors:  
 - Alejandro Esquivias
 - Miriam Punzi
-- Timea timea udvarhelyi
+- Timea udvarhelyi
 - Themis Atsaloglou
